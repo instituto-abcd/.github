@@ -1,3 +1,4 @@
+  ```
   _____ _   _  _____ _______ _____ _______ _    _ _______ ____               ____   _____ _____  
  |_   _| \ | |/ ____|__   __|_   _|__   __| |  | |__   __/ __ \        /\   |  _ \ / ____|  __ \ 
    | | |  \| | (___    | |    | |    | |  | |  | |  | | | |  | |      /  \  | |_) | |    | |  | |
@@ -5,7 +6,7 @@
   _| |_| |\  |____) |  | |   _| |_   | |  | |__| |  | | | |__| |    / ____ \| |_) | |____| |__| |
  |_____|_| \_|_____/   |_|  |_____|  |_|   \____/   |_|  \____/    /_/    \_\____/ \_____|_____/ 
                                                                                                  
-                                                                                                 
+                                                                                
 ## 📖 Sobre o Instituto ABCD
 
 O Instituto ABCD é uma organização social com o objetivo de promover e disseminar projetos que tenham um impacto positivo na vida dos brasileiros com dislexia.
@@ -25,5 +26,4 @@ Para começar a usar o EduEdu, basta baixar o aplicativo na Google Play e seguir
 ## 💡 Contribuindo
 
 Agradecemos qualquer contribuição para melhorar o EduEdu. Se você estiver interessado em contribuir, por favor, entre em contato conosco. 
-
 
