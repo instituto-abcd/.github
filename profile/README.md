@@ -1,6 +1,6 @@
 ## 📖 Sobre o Instituto ABCD
 
-O Instituto ABCD é uma organização social com o objetivo de promover e disseminar projetos que tenham um impacto positivo na vida dos brasileiros com dislexia.
+O [Instituto ABCD](https://www.institutoabcd.org.br) é uma organização social com o objetivo de promover e disseminar projetos que tenham um impacto positivo na vida dos brasileiros com dislexia.
 
 ## 🎓 Sobre o EduEdu
 
@@ -12,9 +12,8 @@ Ao iniciar, o aplicativo aplica uma rápida prova para identificar as áreas que
 
 ## 🚀 Começando com o EduEdu
 
-Para começar a usar o EduEdu, basta baixar o aplicativo na Google Play e seguir as instruções de iniciação.
+Para começar a usar o EduEdu, basta baixar o aplicativo na [Google Play](https://play.google.com/store/apps/details?id=br.org.institutoabcd.edu&referrer=utm_source%3DEduEduWebsite) e seguir as instruções de iniciação.
 
 ## 💡 Contribuindo
 
 Agradecemos qualquer contribuição para melhorar o EduEdu. Se você estiver interessado em contribuir, por favor, entre em contato conosco. 
-
